@@ -147,7 +147,7 @@ Estoy disponible para:
 - 🌐 **Open Source** — Contribuciones a módulos OCA y proyectos relacionados
 
 [![Email](https://img.shields.io/badge/Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.antonio.jajs.18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-antonio-jara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-antonio-jara-sandoval)
 
 ---
 
