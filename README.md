@@ -143,7 +143,6 @@ Estoy disponible para:
 
 - 🤝 **Freelance** — Proyectos Odoo personalizados, migraciones, integraciones de API
 - 🔍 **Code Review** — Revisión y mejora de módulos Odoo existentes
-- 🧑‍🏫 **Mentoring** — Guía a desarrolladores junior en el ecosistema Odoo/Python
 - 🌐 **Open Source** — Contribuciones a módulos OCA y proyectos relacionados
 
 [![Email](https://img.shields.io/badge/Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.antonio.jajs.18@gmail.com)
