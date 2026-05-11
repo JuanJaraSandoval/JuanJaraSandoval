@@ -19,7 +19,7 @@ Desarrollador senior especializado en **Odoo ERP** con experiencia sólida en ve
 
 ```python
 class JuanAntonioJara:
-    role       = "Senior Odoo Developer"
+    role       = "Mid-level Odoo Developer"
     location   = "España 🇪🇸"
     languages  = ["Python", "JavaScript/OWL", "XML", "SQL", "Bash"]
     focus      = ["Odoo ERP", "Fleet Management", "Gov API Integrations"]
