@@ -15,15 +15,15 @@
 
 ## Sobre mí
 
-Desarrollador senior especializado en **Odoo ERP** con experiencia sólida en versiones 14–18. Me dedico a construir módulos personalizados robustos, integraciones con APIs gubernamentales españolas y sistemas de gestión empresarial complejos. Trabajo activamente con el ecosistema de la **OCA (Odoo Community Association)** y sigo las mejores prácticas de la comunidad open source.
+Desarrollador senior especializado en **Odoo ERP** con experiencia sólida en versiones 14–18. Me dedico a construir módulos personalizados robustos, integraciones con APIs gubernamentales españolas y sistemas de gestión empresarial complejos. Trabajo con el ecosistema de módulos de la **OCA (Odoo Community Association)** y sigo sus buenas prácticas de desarrollo.
 
 ```python
 class JuanAntonioJara:
     role       = "Mid-level Odoo Developer"
     location   = "España 🇪🇸"
     languages  = ["Python", "JavaScript/OWL", "XML", "SQL", "Bash"]
-    focus      = ["Odoo ERP", "Fleet Management", "Gov API Integrations"]
-    currently  = "Building Odoo 18 vehicle rental modules + OCA contributions"
+    focus      = ["Odoo ERP", "Custom Modules", "Enterprise Integrations"]
+    currently  = "Desarrollando módulos y soluciones Odoo a medida"
 ```
 
 ---
@@ -67,13 +67,13 @@ class JuanAntonioJara:
 - Herencia de modelos, vistas y controladores
 - Framework OWL (componentes reactivos)
 - Informes QWeb y generación de PDFs
-- Integración con módulos OCA
+- Uso y adaptación de módulos OCA
 
 </td>
 <td width="50%">
 
 ### 🔗 Integraciones & APIs
-- SES Hospedajes (Ministerio del Interior España)
+- Integraciones con APIs gubernamentales españolas
 - Firma digital con Odoo Sign / OCA Sign
 - Pasarelas de pago y e-commerce
 - APIs SOAP/REST con `zeep` y `requests`
@@ -84,11 +84,11 @@ class JuanAntonioJara:
 <tr>
 <td width="50%">
 
-### 🚗 Gestión de Flota
-- Sistema propio de alquiler de vehículos
-- Módulo `fleet.vehicle` extendido
-- Contratos, mantenimiento y disponibilidad
-- Reportes y dashboards operativos
+### 📊 Reporting & Automatización
+- Informes QWeb personalizados
+- Automatización de procesos con Python
+- Dashboards y reportes operativos
+- Integración de datos entre módulos Odoo
 
 </td>
 <td width="50%">
@@ -103,19 +103,6 @@ class JuanAntonioJara:
 </td>
 </tr>
 </table>
-
----
-
-## Contribuciones a la OCA
-
-Colaboro activamente con módulos de la [Odoo Community Association](https://odoo-community.org/):
-
-| Repositorio | Descripción |
-|-------------|-------------|
-| `OCA/l10n-spain` | Localización española — libros de contabilidad AEAT |
-| `OCA/sign` | Módulo de firma digital para Odoo |
-| `OCA/fleet` | Gestión avanzada de flotas de vehículos |
-| `OCA/web` | Widgets y componentes para el frontend de Odoo |
 
 ---
 
@@ -143,7 +130,7 @@ Estoy disponible para:
 
 - 🤝 **Freelance** — Proyectos Odoo personalizados, migraciones, integraciones de API
 - 🔍 **Code Review** — Revisión y mejora de módulos Odoo existentes
-- 🌐 **Open Source** — Contribuciones a módulos OCA y proyectos relacionados
+- 🛠️ **Desarrollo a medida** — Módulos y automatizaciones para tu negocio
 
 [![Email](https://img.shields.io/badge/Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.antonio.jajs.18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-antonio-jara-sandoval)
